@@ -17,7 +17,7 @@ The solution covers the complete lifecycle:
 
 **API → Raw Layer → Transformations → Analytics Layer**
 
-### Architecture Diagram
+### Sample Output Screenshot
 ![API Pipeline Sample](docs/posts_analytics_sample.png)
 
 ### Data Flow
