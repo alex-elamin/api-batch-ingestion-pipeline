@@ -86,12 +86,13 @@ Technologies Used
 How to Run
 
 Activate virtual environment:
-- venv\Scripts\activate
+ venv\Scripts\activate
 
 Install dependencies:
-- pip install -r requirements.txt
+ pip install -r requirements.txt
+
 Run pipeline:
-- python -m src.pipeline.pipeline
+ python -m src.pipeline.pipeline
 
 
 
