@@ -84,17 +84,16 @@ api-batch-ingestion-pipeline/
 
  How to Run
 
-1. **Activate virtual environment**
+1. Activate virtual environment:
 
-```bash
 venv\Scripts\activate
 
-2. **Install dependencies**
-```bash
+2. Install dependencies:
+
 pip install -r requirements.txt
 
-3. **Run pipeline**
-```bash
+3. Run pipeline:
+
 python -m src.pipeline.pipeline
 
 
