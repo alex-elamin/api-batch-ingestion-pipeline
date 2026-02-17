@@ -89,12 +89,8 @@ api-batch-ingestion-pipeline/
 ```bash
 venv\Scripts\activate
 
-2. **Install dependencies**
-
 ```bash
 pip install -r requirements.txt
-
-3. **Run pipeline**
 
 ```bash
 python -m src.pipeline.pipeline
