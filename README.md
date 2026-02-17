@@ -70,7 +70,7 @@ api-batch-ingestion-pipeline/
 ├── requirements.txt
 └── README.md
 
-
+---
 
 ## Technologies Used
 
