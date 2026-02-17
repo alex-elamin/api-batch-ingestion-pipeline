@@ -80,7 +80,6 @@ api-batch-ingestion-pipeline/
  Parquet format for data storage
  python-dotenv for configuration
 
----
 
  How to Run
 
