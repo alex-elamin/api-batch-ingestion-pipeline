@@ -5,13 +5,11 @@ This project demonstrates a production-style data engineering pipeline that inge
 
 The solution covers the complete lifecycle:
 
--Raw data ingestion from API
+- Raw data ingestion from API
+- Incremental record tracking
+- Data transformation and enrichment
+- Analytics-ready outputs for further consumption
 
--Incremental record tracking
-
--Data transformation and enrichment
-
--Analytics-ready outputs for further consumption
 
 ---
 
@@ -20,7 +18,7 @@ The solution covers the complete lifecycle:
 **API → Raw Layer → Transformations → Analytics Layer**
 
 ### Architecture Diagram
-![api-batch-ingestion pipeline](blob/main/docs/posts_analytics_sample.png)
+![API Pipeline Sample](docs/posts_analytics_sample.png)
 
 ### Data Flow
 
