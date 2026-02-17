@@ -72,26 +72,28 @@ api-batch-ingestion-pipeline/
 
 ---
 
-## Technologies Used
+ Technologies Used
 
-- Python 3.x
-- PySpark
-- Pandas
-- Parquet format for data storage
-- python-dotenv for configuration
+ Python 3.x
+ PySpark
+ Pandas
+ Parquet format for data storage
+ python-dotenv for configuration
 
 ---
 
-## How to Run
+ How to Run
 
 1. **Activate virtual environment**
 
 ```bash
 venv\Scripts\activate
 
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 
+3. **Run pipeline**
 ```bash
 python -m src.pipeline.pipeline
 
