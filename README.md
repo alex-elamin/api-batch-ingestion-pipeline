@@ -78,20 +78,25 @@ api-batch-ingestion-pipeline/
 - PySpark
 - Pandas
 - Parquet format for data storage
-- dotenv for configuration
+- python-dotenv for configuration
 
 ---
 
 ## How to Run
 
-1. **Activate virtual environment**  
+1. **Activate virtual environment**
+
 ```bash
 venv\Scripts\activate
-2. ** Install dependencies** 
+
+2. **Install dependencies**
+
 ```bash
 pip install -r requirements.txt
-3. ** Run pipeline**
-```bash 
+
+3. **Run pipeline**
+
+```bash
 python -m src.pipeline.pipeline
 
 
